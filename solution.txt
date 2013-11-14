@@ -1,0 +1,114 @@
+This is a Funny Farm-style game, where parallelograms made of two black lines
+and two red lines are SAT-style analogies.
+
+For example, you start with:
+
+sun : jupiter :: ? : charon
+
+When you fill in the answer "pluto" and hit enter, the server confirms it. It
+also fills in "pluto" in another blank that's connected by a blue line,
+representing equality.
+
+When you fill in a blank on one end of a gray dotted line, it will fill in the
+unrelated blank on the other end, making more of the graph solvable.
+
+
+Here are the analogies in the upper left, for example:
+
+mit : engineers :: harvard : crimson        = names of sports teams
+mit : tech :: harvard : crimson             = names of newspapers
+harvard : crimson :: mit : cardinal/gray    = school colors
+spare : strike :: slash : x                 = bowling symbols
+cardinal : card :: technical : tech         = informal four-letter abbreviations
+
+
+Other analogies (skipping over some obvious ones):
+
+ecstasy : x :: head rat : r :: middle eastern : t = the single letter this would be in a cryptic clue
+
+time : t :: displacement : x                    = standard variable name for this axis
+
+blood : iron :: speeches : majority decisions   = a quote by Bismarck
+
+sega : saturn :: atari : jaguar                 = unsuccessful fifth-generation consoles
+
+atari : go :: check : chess                     = name of a threatening position in a game
+
+go : china :: chess : india                     = country of origin
+
+chinese : master wok :: middle eastern : sepal  = "ethnic" fast-food restaurants at the CambridgeSide Galleria
+
+sonic : coins :: leaps : sepal                  = the result of applying a 12345 -> 52431 permutation
+
+sonic boom : sound :: cherenkov radiation : light
+    = X happens when things move faster than the local speed of Y
+
+saturn : sky :: honda : civic                   = make, model of cars
+
+guns/roses : axl :: black/sabbath : ozzy        = lead singer
+
+black : sabbath :: technical : ecstasy :: chinese : democracy :: guns : roses
+    = These are highly-anticipated, long-delayed, and ultimately disappointing
+      albums by the named bands.
+
+bono : edge :: axl : slash                      = lead singer vs. guitarist
+
+hack : crack :: white hat : black hat
+    = verbs techies wish you would use when distinguishing non-malicious from malicious hacking
+
+titanium : chromium :: chromium : iron          = add two protons
+
+chrome : chromium :: red hat : fedora           = related commercial and open-source projects
+
+red hat : head rat :: al gore : galore          = spoonerisms
+
+al gore : algorithm :: log : logarithm          = what it sounds like when you add 'rhythm'
+
+logarithm : corollary :: logarhythms : chorallaries = MIT a cappella groups with punny mathy names
+
+chorallaries : hot air balloon :: logarithms : black balloon
+    = tracks named with 'balloon' that the respective groups have gotten on BOCA
+
+pitch : black :: blood : red :: sky : blue      = descriptive color names
+
+sun : jupiter :: pluto : charon :: saturn : titan = largest orbiting object
+
+hack : hijack :: dorm : deform :: spider : stupider = change the first letter to three consecutive letters
+
+college : dorm :: jail : cell                   = where you live
+
+college : knowledge :: jupiter :: stupider      = where girls and boys go and why, according to a schoolyard rhyme
+
+knowledge : power :: time : money               = adages connected by "is"
+
+time : second :: power : watt :: distance : meter = metric units
+
+distance : speed :: energy : power              = divide by time
+
+distance : speed :: alone : need                = "Going the Distance" lyrics
+
+distance : displacement :: speed : velocity     = scalar : vector
+
+first : velocity :: second : acceleration :: third : jerk ...
+    = names of derivatives of displacement, including the whimsical ones
+
+soda : pop :: rotary : roundabout               = what things are called in New England vs. much of the Midwest
+
+ace : acid :: arachne : arachnid                = change -e to -id
+
+light : might :: lite : mite                    = increment first letter
+
+light : lite :: might : mite                    = respell -ight as -ite
+
+sage : mint :: spider : arachnid                = biological classification
+
+speed : pace :: time : frequency                = reciprocal quantities
+
+frequency : linear :: pitch : log               = scale these musical quantities are measured on
+
+pace : peace :: fine : end                      = translate from Italian to English
+
+line : linear :: end : final                    = adjective form
+
+
+As you solve the puzzle, the nodes MIT, MITE, and FINAL are highlighted. Complete the analogy by calling in FINALE.

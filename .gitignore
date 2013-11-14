@@ -1,0 +1,5 @@
+env
+wenv
+*.pyc
+analogy_farm.sqlite
+solution.zip
